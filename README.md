@@ -19,7 +19,7 @@
 
 - 📑 Introductory website **[tmduc2606.github.io](https://tmduc2606.github.io/)**
 
-- ⚡ Fun fact **Coffee endorser. Daily strolling. Swimming. Bookworm.**
+- ⚡ Fun fact: **Coffee endorser. Daily strolling. Swimming. Bookworm.**
 
 - 📄 Know about my experiences **[My resumé](https://github.com/tmduc2606/tmduc2606/blob/main/resume_TranMinhDuc.pdf)**
 
