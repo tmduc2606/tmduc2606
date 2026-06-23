@@ -1,8 +1,9 @@
-# Hi 👋, I'm Tran Minh Duc (Duke)
+# Hi 👋, I'm Tran Minh Duc (a.k.a Duke)
 
 ### Aspiring Data Engineer with a passion for building versatile, scalable systems.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tmduc2606" alt="tmduc2606" /></a> </p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmduc2606&show_icons=true&theme=vue-dark)
+
 
 - 🔭 I'm currently working on **full data lifecycle project - spanning across Data Engineering & Data Science**
 
